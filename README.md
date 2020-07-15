@@ -1,50 +1,5 @@
 ### Hi there 👋
 I am passionate, problem solver, critical thinker and full stack software engineer with a passion for building systems and coming up with solutions for solving everyday challenges through technology. 
-Specializations:
-Languages
-
-✔ JavaScript (ES5/ES6/ES7+, Babel), TypeScript, Python, PHP, JAVA
-
-Front-End
-
-✔ JavaScript (ES5/ES6/ES7+, Babel), TypeScript
-
-✔ React.js, Next.js, Gatsby
-
-✔ React Native, CLI, Expo
-
-✔ React Hooks, Redux, MobX, Saga, and Thunk
-
-✔ AngularJS, Angular 2+
-
-✔ Vue, Vuex, Nuxt, Vuetify
-
-✔ Storybook, Styled Components
-
-✔ GraphQL and REST APIs
-
-✔ Jest and Mocha 
-
-Back-End
-
-✔ NodeJS, Express, LoopBack
-
-✔ Django, Flask, FastAPI
-
-✔ Laravel, CakePHP, Codeigniter
-
-Databases
-
-✔ PostgresSQL, MySQL, MongoDB, CouchBase
-
-TechTooling: 
-
-✔ GIT , Docker, AWS, 
-
-Approaches:
-
-✔  Scrum, CI/CD, DevOps, Automation.
-
 
 Here are some ideas to get you started:
 
