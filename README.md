@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am passionate, problem solver, critical thinker and full stack software engineer with a passion for building systems and coming up with solutions for solving everyday challenges through technology. 
 
-Experienced professional with multiple skills looking for full time work. Very diligent, attentive to details, hard working and honest.
+Experienced professional with multiple skills. Very diligent, attentive to details, hard working and honest.
 
 I write super clean, readable and reusable code in JavaScript and TypeScript. Also I have an eye for great UI/UX, an extreme attention to detail, strong communication skills, and an efficient workflow.
 
