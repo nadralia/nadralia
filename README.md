@@ -9,8 +9,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ataano...
 - 🌱 I’m currently learning GraphQL, Next.js, GCP on pluralsight ...
-- 🤔 I’m looking for funds to finish my ataano project.
-- 💬 Ask me about JavaScript, Full Stack development, JAMstack, and building cool sh*t
 - 📫 How to reach me: nadralia@gmail.com
 
 🏡 [website][website] **|** 
