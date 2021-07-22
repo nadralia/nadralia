@@ -3,7 +3,7 @@ I am passionate, problem solver, critical thinker and full stack software engine
 
 Experienced professional with multiple skills. Very diligent, attentive to details, hard working and honest.
 
-I write super clean, readable and reusable code in JavaScript and TypeScript. Also I have an eye for great UI/UX, an extreme attention to detail, strong communication skills, and an efficient workflow.
+I write super clean, readable and reusable code in JavaScript/TypeScript, Python And PHP. Also I have an eye for great UI/UX, an extreme attention to detail, strong communication skills, and an efficient workflow.
 
 Here are some ideas to get you started:
 
