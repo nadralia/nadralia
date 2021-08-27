@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ataano...
 - 🌱 I’m currently learning GraphQL, Next.js, GCP on pluralsight ...
-- 📫 How to reach me: nadralia@gmail.com
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
